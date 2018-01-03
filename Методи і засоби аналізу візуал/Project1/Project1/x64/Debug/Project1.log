@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\remeslo\labs\project1\project1\main.cpp(82): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  c:\remeslo\labs\project1\project1\main.cpp(82): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  c:\remeslo\labs\project1\project1\main.cpp(82): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+  c:\remeslo\labs\project1\project1\main.cpp(82): note: этот аргумент используется в качестве размера буфера
+c:\remeslo\labs\project1\project1\main.cpp(108): warning C4129: : неизвестная escape-последовательность
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl applyOperation(class cv::Mat const &,int)" (?applyOperation@@YAHAEBVMat@cv@@H@Z) в функции main
+C:\Remeslo\labs\Project1\x64\Debug\Project1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
